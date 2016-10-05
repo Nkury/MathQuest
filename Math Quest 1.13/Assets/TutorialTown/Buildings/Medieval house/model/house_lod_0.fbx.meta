@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 161dc14ee2a5de549b584234d49f266d
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: fireplace
+    100002: //RootNode
+    100004: plants_inside
+    100006: plants_outside
+    100008: roof
+    100010: roof_detail_outside
+    100012: roof_detail_outside.001
+    100014: walls
+    100016: windows
+    100018: wood_planes
+    100020: wood_planks
+    100022: roof_detail_outside_001
+    100024: roof_detail_inside
+    400000: fireplace
+    400002: //RootNode
+    400004: plants_inside
+    400006: plants_outside
+    400008: roof
+    400010: roof_detail_outside
+    400012: roof_detail_outside.001
+    400014: walls
+    400016: windows
+    400018: wood_planes
+    400020: wood_planks
+    400022: roof_detail_outside_001
+    400024: roof_detail_inside
+    2300000: fireplace
+    2300002: plants_inside
+    2300004: plants_outside
+    2300006: roof
+    2300008: roof_detail_outside
+    2300010: roof_detail_outside.001
+    2300012: walls
+    2300014: windows
+    2300016: wood_planes
+    2300018: wood_planks
+    2300020: roof_detail_outside_001
+    2300022: roof_detail_inside
+    3300000: fireplace
+    3300002: plants_inside
+    3300004: plants_outside
+    3300006: roof
+    3300008: roof_detail_outside
+    3300010: roof_detail_outside.001
+    3300012: walls
+    3300014: windows
+    3300016: wood_planes
+    3300018: wood_planks
+    3300020: roof_detail_outside_001
+    3300022: roof_detail_inside
+    4300000: fireplace
+    4300002: wood_planks
+    4300004: wood_planes
+    4300006: roof
+    4300008: roof_detail_outside.001
+    4300010: roof_detail_outside
+    4300012: windows
+    4300014: plants_outside
+    4300016: plants_inside
+    4300018: walls
+    4300020: roof_detail_outside_001
+    4300022: roof_detail_inside
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

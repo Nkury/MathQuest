@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9ee55c00b3cfc1842b08d28d8471c599
+timeCreated: 1446494152
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SelectedSprite: {fileID: 21300000, guid: e5f8fb1653d63074d8585c1c8f385453, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
